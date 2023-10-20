@@ -1,5 +1,5 @@
-[
-    {
+{
+ "clients":  [ {
       "Id": 1,
       "name": "Lionel Messi"
     },
@@ -80,4 +80,5 @@
       "name": "Juan Foyth"
     }
   ]
+}
   
